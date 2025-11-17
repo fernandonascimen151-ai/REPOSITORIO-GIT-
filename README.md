@@ -2,17 +2,27 @@
 
 
 
-aula 
+aula
 
 
 
 \#inicio do projeto
 
-alguma coisa 
+primeiro commit do projeto
 
 
 
-\#sub-titulo 
+\##sub-titulo qualquer
 
-qualquer coisa
+esse é o subcesão
+
+
+
+\###equipe 
+
+Fernando Moreira (alias o passiva)
+
+Rosbeilys Tizamo
+
+
 
